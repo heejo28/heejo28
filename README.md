@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @heejo28, Heejo Kim
 - 🇰🇷 I live in Korea
-- 🇬🇧 But I love UK as well
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning Javascript and Vue.js
 - 📫 How to reach me : send me an e-mail: heejokim28@gmail.com
